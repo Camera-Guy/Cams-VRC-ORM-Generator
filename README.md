@@ -9,7 +9,7 @@ It even copys the import settings (compression and that stuff) of the metalic
 
 https://github.com/user-attachments/assets/dd1c6822-ac91-4f9a-98fc-2de38ba1c1bc
 
-The slots are not orderd in O R M because Unity orders Metallic then Occlusion in Standard Shader and Adding a Roughness is for me a least used features so Important stuff on top
+The slots are not orderd in O R M because Unity orders Metallic then Occlusion in Standard Shader and Adding a Roughness for me is a lesser used feature so Important stuff on top
 
 Created because the exsisting ORM generators did not do it right or was too much of a hassle
 
