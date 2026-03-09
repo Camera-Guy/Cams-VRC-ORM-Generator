@@ -10,3 +10,5 @@ It even copys the import settings (compression and that stuff) of the metalic
 https://github.com/user-attachments/assets/dd1c6822-ac91-4f9a-98fc-2de38ba1c1bc
 
 Created because the exsisting ORM generators did not do it right or was too much of a hassle
+
+This is NOT VRC Specific (you can use it for whatever) Its just slimed down for Standard/Autodesk esk shader workflows
