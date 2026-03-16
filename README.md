@@ -8,6 +8,8 @@ you just put the textures and it automaticly switches modes
 It even copys the import settings of the metalic
 (compression and that stuff)
 
+Its under Tools/Texture
+
 https://github.com/user-attachments/assets/dd1c6822-ac91-4f9a-98fc-2de38ba1c1bc
 
 The slots are not orderd in O R M because Unity orders Metallic then Occlusion in Standard Shader and Adding a Roughness for me is a lesser used feature so Important stuff on top
